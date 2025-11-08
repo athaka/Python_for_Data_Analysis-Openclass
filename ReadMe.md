@@ -1,5 +1,4 @@
 # My Python for Data Analysis Journey
----
 ## Roadmap:
 * Complete Python for Data Analysis on OpenClass
 * Complete Learn Data Literacy on OpenClass
